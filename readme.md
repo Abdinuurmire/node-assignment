@@ -196,10 +196,11 @@ Example:
 
 ## 👤 Author
 
-**Your Friend's Name Here**
+**Ganacdase Abdinur Mire**
 
 ---
 
 ## 📜 License
 
 This project is for educational purposes only.
+
